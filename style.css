@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Oswald", sans-serif;
+    background: url(./assets/pngwing.com.png) no-repeat top center/cover;
+    height: 100vh;
+}
+
+#text {
+    font-size: large;
+}
